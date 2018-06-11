@@ -7,6 +7,8 @@
 # Calculates the land use data from a raster file within each of the shapes
 # in a shapefile.
 
+# test for github 20180611
+
 import os, csv, zipfile, time, gdal, numpy
 
 from urllib      import request
